@@ -15,41 +15,18 @@
 
 # 👋 About Me
 
-```python
-class Emmanuel:
+🎓 B.E. Computer Science Engineering (AI & ML)
 
-    def __init__(self):
-        self.name = "S. Emmanuel Godston Isaac"
-        self.degree = "B.E. Computer Science Engineering (AI & ML)"
-        self.location = "Chennai, India 🇮🇳"
+🤖 Passionate about Artificial Intelligence
 
-        self.interests = [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Computer Vision",
-            "Cloud Computing",
-            "DevOps",
-            "MLOps"
-        ]
+☁️ Learning AWS Cloud & DevOps
 
-        self.currently_learning = [
-            "AWS",
-            "Docker",
-            "Jenkins",
-            "Terraform",
-            "Linux",
-            "CI/CD"
-        ]
+⚙️ Building scalable cloud-native applications
 
-        self.current_focus = "Building AI applications and deploying them on AWS"
+📍 Chennai, India
 
-        self.goal = "Become an AI/ML Engineer with strong Cloud & DevOps expertise"
-
-    def motto(self):
-        return "Learn. Build. Deploy. Repeat."
-```
-
----
+🎯 Goal:
+Become an AI Engineer capable of taking models from training to production using Cloud & DevOps.
 
 # 🚀 Featured Projects
 
@@ -59,29 +36,37 @@ class Emmanuel:
 
 <td width="50%">
 
-### 🗑 Garbage Classification using YOLOv8
+<h3 align="center">🤖 HireSense AI <br><sub><i>AI Resume Analyzer</i></sub></h3>
 
-AI-powered waste classification using Computer Vision and Deep Learning.
+<p align="center">
+
+🚧 <b>Currently Building</b>
+
+</p>
+
+An AI-powered resume analyzer that evaluates ATS compatibility, extracts skills, matches job roles, generates interview questions, and provides personalized resume improvement suggestions using Generative AI.
 
 **Tech Stack**
 
-`Python` `YOLOv8` `OpenCV` `Streamlit`
-
-[🔗 Repository](YOUR_REPO_LINK)
+`Python` `FastAPI` `Gemini API` `Streamlit` `Docker` `AWS`
 
 </td>
 
 <td width="50%">
 
-### 🩸 Leukemia Prediction
+<h3 align="center">🏥 MedVision AI <br><sub><i>Healthcare Intelligence Platform</i></sub></h3>
 
-CNN + Random Forest model for leukemia prediction.
+<p align="center">
+
+🚧 <b>Currently Building</b>
+
+</p>
+
+A deep learning healthcare platform capable of detecting diseases from medical images while generating intelligent reports and assisting healthcare professionals.
 
 **Tech Stack**
 
-`Python` `TensorFlow` `CNN` `Random Forest`
-
-[🔗 Repository](YOUR_REPO_LINK)
+`Python` `TensorFlow` `CNN` `OpenCV` `FastAPI`
 
 </td>
 
@@ -91,29 +76,59 @@ CNN + Random Forest model for leukemia prediction.
 
 <td width="50%">
 
-### 🎭 EmoMix
+<h3 align="center">☁️ CloudDeploy AI <br><sub><i>AI Deployment Pipeline</i></sub></h3>
 
-Emotion Detection in Code-Mixed Tweets using multilingual language models.
+<p align="center">
+
+🚧 <b>Currently Building</b>
+
+</p>
+
+An end-to-end CI/CD pipeline that automatically deploys AI applications to AWS using Docker, Terraform, Jenkins, and GitHub Actions.
 
 **Tech Stack**
 
-`Python` `NLP` `Transformers`
-
-[🔗 Repository](YOUR_REPO_LINK)
+`AWS` `Docker` `Terraform` `Jenkins` `GitHub Actions`
 
 </td>
 
 <td width="50%">
 
-### 📊 Student Performance Predictor
+<h3 align="center">⚙️ AWS Infrastructure Automation <br><sub><i>Infrastructure as Code</i></sub></h3>
 
-Machine Learning web application built using Streamlit.
+<p align="center">
+
+🚧 <b>Currently Building</b>
+
+</p>
+
+Provision and manage scalable AWS infrastructure using Terraform, including EC2, IAM, VPC, Security Groups, S3, and networking.
 
 **Tech Stack**
 
-`Python` `Scikit-Learn` `Streamlit`
+`AWS` `Terraform` `Linux` `CloudFormation`
 
-[🔗 Repository](YOUR_REPO_LINK)
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="2">
+
+<h3 align="center">📊 Smart Cloud Monitoring Dashboard</h3>
+
+<p align="center">
+
+📅 <b>Coming Soon</b>
+
+</p>
+
+Monitor AWS infrastructure in real time using CloudWatch, Lambda, SNS, and Python. Visualize system health, billing insights, resource utilization, and receive automated alerts.
+
+**Tech Stack**
+
+`AWS CloudWatch` `Lambda` `SNS` `Python`
 
 </td>
 
@@ -122,7 +137,6 @@ Machine Learning web application built using Streamlit.
 </table>
 
 ---
-
 # ☁️ AWS Cloud Journey
 
 Currently learning and building projects with
@@ -206,48 +220,108 @@ Learning modern DevOps practices with
 
 ---
 
-# 📈 GitHub Statistics
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emmanue775&show_icons=true&theme=github_dark&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Emmanue775&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanue775&layout=compact&theme=github_dark&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanue775&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Emmanue775&theme=github-dark&hide_border=true"/>
+</div>
+
+<div align="center">
+
+<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=Emmanue775&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Emmanue775&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🎯 2026 Roadmap
+# 🏆 GitHub Achievements
 
-- 🎓 Graduate in AI & ML ✔
-- ☁️ Master AWS Cloud
-- 🐳 Learn Docker
-- ⚙️ Build CI/CD Pipelines
-- 🏗 Learn Terraform
-- 🚀 Deploy AI Applications on AWS
-- 📜 Earn AWS Cloud Practitioner Certification
-- 🤖 Build End-to-End MLOps Projects
-- 🌐 Launch Personal Portfolio Website
+<div align="center">
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Emmanue775&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&row=1&column=7"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🚀 My Journey & Roadmap
+
+<div align="center">
+
+| 🎯 Goal | Status |
+|---------|:------:|
+| 🎓 B.E. Computer Science Engineering (AI & ML) | ✅ Completed |
+| ☁️ Master AWS Cloud | 🚧 In Progress |
+| ⚙️ Learn DevOps & CI/CD | 🚧 In Progress |
+| 🐳 Containerize Applications with Docker | 🚧 In Progress |
+| 🏗️ Infrastructure as Code with Terraform | 📅 Next |
+| ☸️ Learn Kubernetes | 📅 Planned |
+| 🤖 Build Production-Ready AI Applications | 🚧 In Progress |
+| ☁️ Deploy AI Systems on AWS | 📅 Planned |
+| 📜 AWS Certified Cloud Practitioner | 🎯 Target 2026 |
+| 🚀 Become an AI/ML + Cloud + DevOps Engineer | 🎯 Mission |
+
+</div>
 
 ---
 
 # 📚 Currently Learning
 
-- AWS Cloud Computing
-- DevOps
-- Docker
-- Jenkins
-- Terraform
-- Linux
-- Infrastructure as Code
-- CI/CD Pipelines
+<div align="center">
+
+| 🤖 AI & ML | ☁️ Cloud | ⚙️ DevOps |
+|------------|----------|-----------|
+| Machine Learning | AWS EC2 | Docker |
+| Deep Learning | Amazon S3 | Jenkins |
+| Computer Vision | IAM | Terraform |
+| NLP | VPC | Linux |
+| FastAPI | CloudFormation | Git & GitHub |
+
+</div>
 
 ---
 
-# 📫 Connect With Me
+# 💡 What I'm Building
+
+✔ Intelligent AI Applications
+
+✔ Cloud-Native Solutions
+
+✔ End-to-End Deployment Pipelines
+
+✔ Infrastructure Automation
+
+✔ Production-Ready Machine Learning Systems
+
+---
+
+# 🎯 2026 Mission
+
+> **Design intelligent AI systems, deploy them on scalable cloud infrastructure, automate deployments with DevOps practices, and contribute to building reliable software that solves real-world problems.**
+
+---
+
+# 🤝 Let's Connect
 
 <div align="center">
 
@@ -269,9 +343,11 @@ Learning modern DevOps practices with
 
 <div align="center">
 
-## ⭐ "Building AI. Automating Infrastructure. Solving Real-World Problems."
+## 💬 Personal Philosophy
 
-*"The best way to predict the future is to build it."*
+> **"I believe great software isn't just about writing code—it's about building intelligent systems that are scalable, reliable, and capable of making a meaningful impact."**
+
+### ⭐ Learn • Build • Deploy • Improve • Repeat
 
 </div>
 
